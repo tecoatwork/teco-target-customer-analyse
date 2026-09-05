@@ -1,4 +1,4 @@
-# teco-account-intelligence
+# teco-target-customer-analyse
 
 目标客户背景调查与关键人沟通分析。将公司公开信息转化为客户开发优先级、交易风险提示与具体切入方案。
 
@@ -16,7 +16,7 @@ Copyright (c) 2026 tecoatwork
 ## 使用
 
 ```text
-$teco-account-intelligence
+$teco-target-customer-analyse
 目标：https://example.com （替换成真实目标官网）
 我方产品：提供实际产品简介或附件
 风险偏好：中性
@@ -24,7 +24,7 @@ $teco-account-intelligence
 ```
 
 ```text
-$teco-account-intelligence
+$teco-target-customer-analyse
 目标：公司全称与国家
 行业：重工业
 风险偏好：保守
@@ -43,7 +43,7 @@ $teco-account-intelligence
 
 ## 安装
 
-将本仓库整体放入助手的技能目录，文件夹命名为 `teco-account-intelligence`。Codex常见个人目录为 `~/.codex/skills/`，自定义配置以实际环境为准。
+将本仓库整体放入助手的技能目录，文件夹命名为 `teco-target-customer-analyse`。Codex常见个人目录为 `~/.codex/skills/`，自定义配置以实际环境为准。
 
 也可将本仓库链接发给Codex，请它使用skill-installer安装根目录的Skill。安装后打开新会话；未发现时检查路径或重启客户端。
 

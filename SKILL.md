@@ -1,5 +1,5 @@
 ---
-name: teco-account-intelligence
+name: teco-target-customer-analyse
 description: 对目标公司开展公开信息背景调查，核实经营主体、业务匹配、履约与合规风险，并基于关键人的公开职业行为分析沟通偏好，形成客户开发优先级、交易保护条件和切入方案。用于公司名称或URL背调、关键人分析和大客户开发准备，不用于心理诊断、个人征信或自动联系客户。
 ---
 

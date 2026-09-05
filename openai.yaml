@@ -1,0 +1,6 @@
+interface:
+  display_name: "teco-account-intelligence"
+  short_description: "目标公司公开信息背调、合作风险评估与关键人职业沟通偏好分析"
+  default_prompt: "Use $teco-account-intelligence to investigate the target company and its decision makers, then prepare an evidence-backed outreach plan."
+policy:
+  allow_implicit_invocation: true
